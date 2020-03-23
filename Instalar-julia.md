@@ -25,7 +25,7 @@ Y si la máquina es 32 bits se leerá:
 
 2. Descomprimir y extraer el archico comprimido utilizando por ejemplo:
 
-		tar -xvzf julia-x.y.z-linux-x86\_64.tar.gz
+	tar -xvzf julia-x.y.z-linux-x86\_64.tar.gz
 	
 donde `x.y.z` es lo que marca la versión actual del Julia. Esto va a extraer todos los archivos a un directorio llamado `julia-x.y.z`, que será lo que llamemos `directorio de Julia`. 
 
