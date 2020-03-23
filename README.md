@@ -1,2 +1,0 @@
-# Tests
-Learning git
